@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>instances_train_xml</folder>
+	<filename>6602.jpg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+	</size>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>509</ymin>
+			<xmax>1107</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1008</xmin>
+			<ymin>574</ymin>
+			<xmax>1100</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>

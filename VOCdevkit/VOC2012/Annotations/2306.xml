@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>instances_train_xml</folder>
+	<filename>2306.jpg</filename>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>46</ymin>
+			<xmax>677</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>1062</ymin>
+			<xmax>599</xmax>
+			<ymax>1231</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>1252</xmin>
+			<ymin>211</ymin>
+			<xmax>1483</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>2925</xmin>
+			<ymin>1148</ymin>
+			<xmax>3085</xmax>
+			<ymax>1296</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>2491</xmin>
+			<ymin>1028</ymin>
+			<xmax>2767</xmax>
+			<ymax>1127</ymax>
+		</bndbox>
+	</object>
+</annotation>

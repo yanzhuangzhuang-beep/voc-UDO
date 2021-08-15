@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>instances_train_xml</folder>
+	<filename>4933.jpg</filename>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>827</xmin>
+			<ymin>600</ymin>
+			<xmax>1037</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1396</xmin>
+			<ymin>483</ymin>
+			<xmax>1545</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>3642</xmin>
+			<ymin>420</ymin>
+			<xmax>3797</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>710</xmin>
+			<ymin>1258</ymin>
+			<xmax>961</xmax>
+			<ymax>1468</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>336</ymin>
+			<xmax>429</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>1725</ymin>
+			<xmax>503</xmax>
+			<ymax>1930</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1213</xmin>
+			<ymin>313</ymin>
+			<xmax>1341</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2736</xmin>
+			<ymin>500</ymin>
+			<xmax>2854</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2255</xmin>
+			<ymin>764</ymin>
+			<xmax>2389</xmax>
+			<ymax>888</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2415</xmin>
+			<ymin>989</ymin>
+			<xmax>2548</xmax>
+			<ymax>1105</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2404</xmin>
+			<ymin>882</ymin>
+			<xmax>2526</xmax>
+			<ymax>982</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>620</ymin>
+			<xmax>613</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>769</xmin>
+			<ymin>43</ymin>
+			<xmax>897</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1451</xmin>
+			<ymin>1</ymin>
+			<xmax>1579</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1816</xmin>
+			<ymin>1</ymin>
+			<xmax>1944</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

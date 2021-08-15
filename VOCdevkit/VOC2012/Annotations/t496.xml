@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>instances_test_xml</folder>
+	<filename>496.jpg</filename>
+	<size>
+		<width>720</width>
+		<height>405</height>
+	</size>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>3</ymin>
+			<xmax>534</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>71</ymin>
+			<xmax>488</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>37</ymin>
+			<xmax>681</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>641</xmin>
+			<ymin>130</ymin>
+			<xmax>718</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

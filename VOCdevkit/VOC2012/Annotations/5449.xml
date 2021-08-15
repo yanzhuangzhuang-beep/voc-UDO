@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>instances_train_xml</folder>
+	<filename>5449.jpg</filename>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>1190</ymin>
+			<xmax>477</xmax>
+			<ymax>1387</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>3231</xmin>
+			<ymin>1685</ymin>
+			<xmax>3539</xmax>
+			<ymax>1957</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>3298</xmin>
+			<ymin>1273</ymin>
+			<xmax>3582</xmax>
+			<ymax>1484</ymax>
+		</bndbox>
+	</object>
+</annotation>

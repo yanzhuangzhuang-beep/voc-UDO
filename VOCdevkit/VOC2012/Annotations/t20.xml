@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>instances_test_xml</folder>
+	<filename>20.jpg</filename>
+	<size>
+		<width>720</width>
+		<height>405</height>
+	</size>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>327</ymin>
+			<xmax>185</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>210</ymin>
+			<xmax>498</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>104</ymin>
+			<xmax>437</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>686</xmin>
+			<ymin>67</ymin>
+			<xmax>720</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>149</ymin>
+			<xmax>528</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>93</ymin>
+			<xmax>534</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>37</ymin>
+			<xmax>463</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>196</ymin>
+			<xmax>601</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

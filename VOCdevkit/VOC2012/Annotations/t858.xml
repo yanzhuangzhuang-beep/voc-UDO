@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>instances_test_xml</folder>
+	<filename>858.jpg</filename>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>3304</xmin>
+			<ymin>1514</ymin>
+			<xmax>3430</xmax>
+			<ymax>1639</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2258</xmin>
+			<ymin>1456</ymin>
+			<xmax>2392</xmax>
+			<ymax>1592</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2556</xmin>
+			<ymin>1040</ymin>
+			<xmax>2669</xmax>
+			<ymax>1150</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>959</xmin>
+			<ymin>996</ymin>
+			<xmax>1113</xmax>
+			<ymax>1142</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2436</xmin>
+			<ymin>1825</ymin>
+			<xmax>2588</xmax>
+			<ymax>2003</ymax>
+		</bndbox>
+	</object>
+</annotation>

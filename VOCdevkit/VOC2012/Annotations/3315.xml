@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>instances_train_xml</folder>
+	<filename>3315.jpg</filename>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2339</xmin>
+			<ymin>1440</ymin>
+			<xmax>2498</xmax>
+			<ymax>1603</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>2029</xmin>
+			<ymin>1232</ymin>
+			<xmax>2191</xmax>
+			<ymax>1390</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>3454</xmin>
+			<ymin>1674</ymin>
+			<xmax>3657</xmax>
+			<ymax>1843</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>1384</ymin>
+			<xmax>381</xmax>
+			<ymax>1533</ymax>
+		</bndbox>
+	</object>
+</annotation>

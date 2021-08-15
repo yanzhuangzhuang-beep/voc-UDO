@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>instances_train_xml</folder>
+	<filename>1539.jpg</filename>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+	</size>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1370</xmin>
+			<ymin>488</ymin>
+			<xmax>1518</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1662</xmin>
+			<ymin>1515</ymin>
+			<xmax>1886</xmax>
+			<ymax>1668</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1665</xmin>
+			<ymin>1712</ymin>
+			<xmax>1992</xmax>
+			<ymax>2056</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1038</xmin>
+			<ymin>1153</ymin>
+			<xmax>1174</xmax>
+			<ymax>1446</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1789</xmin>
+			<ymin>702</ymin>
+			<xmax>1944</xmax>
+			<ymax>812</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1650</xmin>
+			<ymin>151</ymin>
+			<xmax>1763</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1643</xmin>
+			<ymin>866</ymin>
+			<xmax>1736</xmax>
+			<ymax>953</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>holothurian</name>
+		<bndbox>
+			<xmin>1485</xmin>
+			<ymin>291</ymin>
+			<xmax>1604</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1531</xmin>
+			<ymin>1291</ymin>
+			<xmax>1718</xmax>
+			<ymax>1487</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>1656</xmin>
+			<ymin>1626</ymin>
+			<xmax>1871</xmax>
+			<ymax>1812</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1192</xmin>
+			<ymin>1011</ymin>
+			<xmax>1319</xmax>
+			<ymax>1113</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>1718</xmin>
+			<ymin>442</ymin>
+			<xmax>1819</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>scallop</name>
+		<bndbox>
+			<xmin>3035</xmin>
+			<ymin>1</ymin>
+			<xmax>3278</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>2247</xmin>
+			<ymin>30</ymin>
+			<xmax>2445</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>1521</ymin>
+			<xmax>293</xmax>
+			<ymax>1677</ymax>
+		</bndbox>
+	</object>
+</annotation>

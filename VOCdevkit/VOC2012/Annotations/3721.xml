@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>instances_train_xml</folder>
+	<filename>3721.jpg</filename>
+	<size>
+		<width>586</width>
+		<height>480</height>
+	</size>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>366</ymin>
+			<xmax>356</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

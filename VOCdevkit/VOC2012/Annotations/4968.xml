@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>instances_train_xml</folder>
+	<filename>4968.jpg</filename>
+	<size>
+		<width>704</width>
+		<height>576</height>
+	</size>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>266</ymin>
+			<xmax>465</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>echinus</name>
+		<bndbox>
+			<xmin>498</xmin>
+			<ymin>69</ymin>
+			<xmax>554</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	
+    <object>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+
+		<name>starfish</name>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>234</ymin>
+			<xmax>539</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>
